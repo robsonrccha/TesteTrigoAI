@@ -25,14 +25,6 @@ Este projeto foi desenvolvido como parte do Teste Técnico do Programa Trainee d
 2. Baixe o dataset do Kaggle: [Brazilian E-commerce Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 3. Salve os arquivos CSV em uma pasta do seu Google Drive
 4. Execute os notebooks na seguinte ordem:
-
-   📁 notebooks/
-├── Tarefa_1_Preparacao_Dados_Colab
-├── Tarefa_2_Analise_Exploratoria
-├── Tarefa_3_Solucao_Problemas_Negocio
-└── Tarefa_4_Visualizacoes_Dashboards
-
-
 5. Siga as instruções em cada notebook para configurar o caminho correto e rodar as análises
 
 ---
@@ -70,8 +62,14 @@ Este projeto foi desenvolvido como parte do Teste Técnico do Programa Trainee d
 - KMeans para clustering
 
 
+---
+
+##Observação Pessoal: 
+- Achei o teste muito dificil em um nivel do qual precisei recorrer a muita ajuda, em foruns, amigos e a IA. Na propria Kaggle no forum vi muitas pessoas com dificuldades e isso ajudou bastante a entender as resoluções que tiveram. Mas de modo geral o desafio foi muito exigente, como observação deixo aqui meu sincero realto de que meu conhecimento precise ser lapidado e aprofundado, espero que a vaga seja para esta finalidade, pois estou em começo de carreira e o intuito seria o aprimoramento das minhas habilidades em um ambiente real e uma empresa como a Triggo.
+No mais, muito obrigado!
 
 
+---
 
 
 
