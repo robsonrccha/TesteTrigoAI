@@ -64,7 +64,7 @@ Este projeto foi desenvolvido como parte do Teste Técnico do Programa Trainee d
 
 ---
 
-##Observação Pessoal: 
+## Observação Pessoal: 
 - Achei o teste muito dificil em um nivel do qual precisei recorrer a muita ajuda, em foruns, amigos e a IA. Na propria Kaggle no forum vi muitas pessoas com dificuldades e isso ajudou bastante a entender as resoluções que tiveram. Mas de modo geral o desafio foi muito exigente, como observação deixo aqui meu sincero realto de que meu conhecimento precise ser lapidado e aprofundado, espero que a vaga seja para esta finalidade, pois estou em começo de carreira e o intuito seria o aprimoramento das minhas habilidades em um ambiente real e uma empresa como a Triggo.
 No mais, muito obrigado!
 
